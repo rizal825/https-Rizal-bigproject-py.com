@@ -1,0 +1,156 @@
+.fb.accent {
+  background: @highlight;  
+}
+.fb.accent.dark{
+    background: @highlight-dark;
+    }
+.fb.accent.darker {
+    background: @highlight-darker;
+}
+.fb.accent.light {
+    background: @highlight-light;
+}
+.fb.accent.lighter {
+    background: @highlight-lighter;
+}
+//white
+.fb.accent.white{
+    background:@white;
+}
+.fb.accent.white.dark{
+    background:@white-dark;
+}
+.fb.accent.white.darker{
+    background:@white-darker;
+}
+//red
+.fb.accent.red {
+ background: @red;
+ color:@white;
+}
+.fb.accent.red.dark {
+    background: @red-dark;
+}
+.fb.accent.red.darker {
+    background: @red-darker;
+}
+.fb.accent.red.light {
+    background: @red-light;
+    color: #666;
+}
+//orange
+.fb.accent.orange {
+    background: @orange;
+}
+.fb.accent.orange.light {
+    background: @orange-light;
+}
+.fb.accent.orange.lighter {
+    background: @orange-lighter;
+}
+.fb.accent.orange.dark {
+    background: @orange-dark;
+}
+.fb.accent.orange.darker {
+    background: @orange-darker;
+}
+.fb.accent.red.lighter {
+    background: @red-lighter;
+}
+//purple
+.fb.accent.purple {
+    background: @purple;
+}
+.fb.accent.purple.light {
+    background: @purple-light;
+}
+.fb.accent.purple.lighter {
+    background: @purple-lighter;
+}
+.fb.accent.purple.dark {
+    background: @purple-dark;
+}
+.fb.accent.purple.darker {
+    background: @purple-darker;
+}
+//green
+.fb.accent.green {
+    background: @green;
+    color:@white;
+}
+.fb.accent.green.light {
+    background: @green-light;
+}
+.fb.accent.green.lighter {
+    background: @green-lighter;
+}
+.fb.accent.green.dark {
+    background: @green-dark;
+}
+.fb.accent.green.darker {
+    background: @green-darker;
+}
+//yellow
+.fb.accent.yellow {
+    background: @yellow;
+}
+.fb.accent.yellow.light {
+    background: @yellow-light;
+}
+.fb.accent.yellow.lighter {
+    background: @yellow-lighter;
+}
+.fb.accent.yellow.dark {
+    background: @yellow-dark;
+}
+.fb.accent.yellow.darker {
+    background: @yellow-darker;
+}
+//blue
+.fb.accent.blue {
+    background: @blue;
+    color:@white;
+}
+.fb.accent.blue.dark {
+    background: @blue-dark;
+}
+.fb.accent.blue.darker {
+    background: @blue-darker;
+}
+.fb.accent.blue.light {
+    background: @blue-light;
+}
+.fb.accent.blue.lighter {
+    background: @blue-lighter;
+}
+//teal
+.fb.accent.teal {
+    background: @teal;
+}
+.fb.accent.teal.light {
+    background: @teal-light;
+}
+.fb.accent.teal.lighter {
+    background: @teal-lighter;
+}
+.fb.accent.teal.dark {
+    background: @teal-dark;
+}
+.fb.accent.teal.darker {
+    background: @teal-darker;
+}
+.fb.accent.gray {
+    background: @gray;
+}
+.fb.accent.gray.light {
+    background: @gray-light;
+}
+.fb.accent.gray.lighter {
+    background: @gray-lighter;
+}
+.fb.accent.gray.dark {
+    background: @gray-dark;
+}
+.fb.accent.gray.darker {
+    background: @gray-darker;
+}
