@@ -1,0 +1,87 @@
+# Judul Proyek
+
+Satu Paragraf deskripsi proyek diletakkan di sini
+
+## Mulai
+
+Petunjuk ini akan memberi Anda salinan proyek dan berjalan di komputer lokal Anda untuk tujuan pengembangan dan pengujian. Lihat penerapan untuk catatan tentang cara menyebarkan proyek pada sistem langsung.
+
+### Prasyarat
+
+Hal-hal apa yang Anda perlukan untuk menginstal perangkat lunak dan cara menginstalnya
+
+``
+Berikan contoh
+``
+
+### Memasang
+
+Serangkaian contoh langkah demi langkah yang memberi tahu Anda cara menjalankan env pengembangan
+
+Katakan apa langkahnya nanti
+
+``
+Beri contoh
+``
+
+Dan ulangi
+
+``
+sampai selesai
+``
+
+Akhiri dengan contoh mengeluarkan beberapa data dari sistem atau menggunakannya untuk demo kecil
+
+## Menjalankan pengujian
+
+Jelaskan cara menjalankan pengujian otomatis untuk sistem ini
+
+### Bagi menjadi pengujian ujung ke ujung
+
+Jelaskan apa yang diuji tes ini dan mengapa
+
+``
+Berikan contoh
+``
+
+### Dan tes gaya pengkodean
+
+Jelaskan apa yang diuji tes ini dan mengapa
+
+``
+Berikan contoh
+``
+
+## Penyebaran
+
+Tambahkan catatan tambahan tentang cara menerapkan ini pada sistem langsung
+
+## Dibangun Dengan
+
+* [Dropwizard] (http://www.dropwizard.io/1.0.2/docs/) - Kerangka web yang digunakan
+* [Maven] (https://maven.apache.org/) - Manajemen Ketergantungan
+* [ROMA] (https://rometools.github.io/rome/) - Digunakan untuk menghasilkan RSS Feed
+
+## Berkontribusi
+
+Harap baca [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) untuk detail tentang kode etik kami, dan proses untuk mengirimkan permintaan tarik kepada kami.
+
+## Pembuatan Versi
+
+Kami menggunakan [SemVer] (http://semver.org/) untuk pembuatan versi. Untuk versi yang tersedia, lihat [tag di repositori ini] (https://github.com/your/project/tags).
+
+## Penulis
+
+* ** Billie Thompson ** - * Pekerjaan awal * - [PurpleBooth] (https://github.com/PurpleBooth)
+
+Lihat juga daftar [kontributor] (https://github.com/your/project/contributors) yang berpartisipasi dalam proyek ini.
+
+## Lisensi
+
+Proyek ini berlisensi di bawah Lisensi MIT - lihat file [LICENSE.md] (LICENSE.md) untuk detailnya
+
+## Ucapan Terima Kasih
+
+* Tip topi untuk siapa saja yang kodenya digunakan
+* Inspirasi
+* dll
